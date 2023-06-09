@@ -1,0 +1,9 @@
+.body{
+    -fx-background-color: linear-gradient(from 0% 0% to 70% 100%, #DFECF3, #849ED1);
+}
+
+.pane{
+    -fx-backGround-color: rgba(255, 255, 255, 0.3);
+    -fx-backGround-radius: 20px;
+    -fx-text-fill: white;
+}

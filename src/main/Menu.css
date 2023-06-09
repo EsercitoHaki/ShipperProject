@@ -1,0 +1,12 @@
+.button{
+    -fx-backGround-color: #EDE4C5;
+}
+
+.body_left{
+    -fx-backGround-color: #849ED1;
+}
+
+.body{
+    -fx-backGround-color: linear-gradient(from 0% 0% to 70% 100%, #DFECF3, #849ED1);
+}
+

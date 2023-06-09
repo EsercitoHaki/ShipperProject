@@ -1,0 +1,31 @@
+.body{
+    -fx-backGround-color: linear-gradient(from 0% 0% to 70% 100%, #DFECF3, #849ED1);
+}
+
+.body_mid{
+        -fx-backGround-color: rgba(255, 255, 255, .15);
+        -fx-border-color: #849ED1;
+        -fx-border-width: 1px 1px 1px 1px;
+        -fx-border-radius: 10px;
+        -fx-background-radius: 10px;
+        -fx-border-style: solid;
+}
+
+.button{
+    -fx-backGround-color: #E16A00;
+}
+
+.button:hover{
+    -fx-text-fill: white;
+    -fx-background-color: #F8492E;
+    -fx-font-size: 15px;
+    -fx-opacity: 0.8;
+    -fx-font-weight:bold;
+}
+
+.button:pressed{
+      -fx-text-fill: white;
+      -fx-font-weight: bold;
+      -fx-background-insets: 2 0 0 0,2 0 3 0,2 0 4 0,2 0 5 0;
+}
+
